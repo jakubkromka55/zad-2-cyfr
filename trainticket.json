@@ -1,0 +1,22 @@
+{
+    "numerBiletu": "PL12345678",
+    "nazwaPasazera": "Jan Kowalski",
+    "szczegolyPociagu": {
+        "numerPociagu": "IC202",
+        "nazwaPociagu": "InterCity Express"
+    },
+    "odjazd": {
+        "stacja": "Warszawa Centralna",
+        "czas": "2024-12-15T14:30:00"
+    },
+    "przyjazd": {
+        "stacja": "Kraków Główny",
+        "czas": "2024-12-15T17:15:00"
+    },
+    "szczegolyMiejsca": {
+        "wagon": 5,
+        "miejsce": "12A"
+    },
+    "cena": 45.50,
+    "czyZwrotny": true
+}

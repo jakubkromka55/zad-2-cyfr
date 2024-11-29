@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <nadawca>
+        <imieNazwisko>Jan Kowalski</imieNazwisko>
+        <adresEmail>jan.kowalski@example.com</adresEmail>
+    </nadawca>
+    <odbiorca>
+        <imieNazwisko>Pawel Nowak</imieNazwisko>
+        <adresEmail>pawel.nowak@example.com</adresEmail>
+    </odbiorca>
+    <temat>Zaproszenie na zlot</temat>
+    <tresc>
+         Czesc Pawel,
+        
+        Wbijaj na zlot swoja subarka
+        
+        Pozdro!
+        Galanonim
+    </tresc>
+</email>
+

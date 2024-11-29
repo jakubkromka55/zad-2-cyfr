@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Xiaomi" model="Redmi Note 10 Pro" releaseYear="2021">
+        <specs>
+            <screenSize unit="inch">6.2</screenSize>
+            <batteryCapacity unit="mAh">5000</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">108</camera>
+        </specs>
+        <price currency="PLN">1300</price>
+    </smartphone>
+</smartphones>

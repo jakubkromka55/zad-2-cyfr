@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transport>
+    <Vehicle type="car" color="black">
+        <Brand>Subaru</Brand>
+        <Model>Impreza WRX STI</Model>
+        <Year>2004</Year>
+        <Fuel>Petrol</Fuel>
+    </Vehicle>
+    <Vehicle type="bicycle" color="blue">
+        <Brand>Giant</Brand>
+        <Model>Escape 3</Model>
+        <Year>2021</Year>
+        <Gear>21</Gear>
+    </Vehicle>
+    <Vehicle type="bus" color="black">
+        <Brand>Mercedes</Brand>
+        <Model>Spronter</Model>
+        <Year>2001</Year>
+        <fuel>Petrol</fuel>
+    </Vehicle>
+</Transport>

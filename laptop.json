@@ -1,0 +1,37 @@
+[
+
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+},
+
+{
+    "brand": "Lenovo",
+    "model": "Thinkpad",
+    "year": 2020,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+},
+
+{
+    "brand": "macbook",
+    "model": "idk",
+    "year": 2018,
+    "isTouchscreen": true,
+    "devices": ["space","webcam"]
+},
+
+
+{
+    "brand": "Msi",
+    "model": "Legion",
+    "year": 2025,
+    "isTouchscreen": false,
+    "devices": ["touchpad","webcam"]
+}
+
+
+]
